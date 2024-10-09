@@ -297,4 +297,4 @@ sensor:
       filters:
         - multiply: 0.00163
 
-# https://esphome.io/components/sensor/adc.html
+
